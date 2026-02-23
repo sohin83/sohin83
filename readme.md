@@ -6,10 +6,14 @@ I'm a **Full-Stack Software Engineer** with experience starting as a **backend d
 
 ## 🛠️ Tech Stack
 
-**Backend & Full-Stack:** Node.js, PHP (Laravel, Symfony, CodeIgniter), REST APIs, MongoDB, MySQL  
-**Frontend:** Vue.js, AngularJS, JavaScript, HTML5, CSS3, Responsive Design, Bootstrap, Tailwind CSS  
+**Backend & Full-Stack:** Node.js, Express.js, fastify, PHP (Laravel, Symfony, CodeIgniter), REST APIs, Microservices, GraphQL, Serverless 
+**Frontend:** Vue.js, ReactJs, AngularJS, Angular 2+, JavaScript, HTML5, CSS3, Responsive Design, Bootstrap, Tailwind CSS  
+**Databases:** MySQL, MongoDB, Redis
+**Messaging & Event Streaming:** RabbitMQ, NATS Streaming Server, WebSockets, Socket.IO
 **Testing & Quality:** Jest, Supertest, PHPUnit, Unit & Integration Testing  
-**Other Tools:** Git, Docker, Kubernetes, CI/CD, Agile workflows
+**DevOps & Tools:** Git, GitHub, Bitbucket, Docker, NPM, PNPM, Turborepo, Jira, SonarQube, CI/CD (basic), AWS, Kubernetes
+**Authentication & APIs:** JWT, Parse Server, AJAX, JSON, XML
+**Other Tools:** Figma, Photoshop, SVN
 
 ---
 
